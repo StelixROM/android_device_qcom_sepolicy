@@ -113,4 +113,4 @@ BOARD_SEPOLICY_UNION += sensors.te
 BOARD_SEPOLICY_UNION += sensors_test.te
 #endif
 
--include vendor/cm/sepolicy/qcom/sepolicy.mk
+-include vendor/carbon/sepolicy/qcom/sepolicy.mk
